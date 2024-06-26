@@ -1,0 +1,12 @@
+.light-bg  .category-box1 select,
+.light-bg  input {
+  color: #13141e;
+}
+ .category-box1 option {
+  background: #13141e;
+  color: #fff;
+}
+.dark-bg  .category-box1 select,
+.dark-bg  input {
+  color: #fff;
+}
